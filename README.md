@@ -1,5 +1,7 @@
 # Customer Survey Data Analysis
 
+**Note:** I'm using this notebook to experiment around with the data in `jupyter notebook`. Here, I clean the data, try out different sorting algorithms (Merge Sort, Bubble Sort, Selection Sort), and compare how fast they are. Just for learning and testing things out!
+
 ## Project Overview
 This side project analyzes a **customer satisfaction survey dataset** from a food delivery service. The dataset contains ratings and feedback from customers regarding **Delivery, Food, Speed**, and **Order Accuracy**. The goal is to clean, organize, and sort the data while comparing the efficiency of different sorting algorithms.
 
