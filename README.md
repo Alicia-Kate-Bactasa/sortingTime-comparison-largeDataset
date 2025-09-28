@@ -14,7 +14,7 @@ _dataset extracted from kaggle.com_
 This dataset collects responses from customers regarding their experience with Kashmir Cafe's services. It provides insights into customer satisfaction levels, delivery performance, food quality, speed, and order accuracy.
 
 **Columns:**
-- `Customer` – Unique customer ID  
+- `Customer` 
 - `Delivery` – Overall delivery experience rating (1–5)  
 - `Food` – Food quality rating (1–5)  
 - `Speed` – Delivery speed rating (1–5)  
