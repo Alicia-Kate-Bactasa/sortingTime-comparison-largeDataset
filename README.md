@@ -1,7 +1,7 @@
 # Customer Survey Data Analysis
 
 ## Project Overview
-This project analyzes a **customer satisfaction survey dataset** from a food delivery service. The dataset contains ratings and feedback from customers regarding **Delivery, Food, Speed**, and **Order Accuracy**. The goal is to clean, organize, and sort the data while comparing the efficiency of different sorting algorithms.
+This side project analyzes a **customer satisfaction survey dataset** from a food delivery service. The dataset contains ratings and feedback from customers regarding **Delivery, Food, Speed**, and **Order Accuracy**. The goal is to clean, organize, and sort the data while comparing the efficiency of different sorting algorithms.
 
 
 ## Dataset Source and Credit
